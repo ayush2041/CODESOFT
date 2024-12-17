@@ -1,2 +1,2 @@
-# Pose-estimation-
+# Bicep curl counter
  python code
